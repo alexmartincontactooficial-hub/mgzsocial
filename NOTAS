@@ -1,0 +1,12 @@
+Notas importantes que has de usar: 
+
+Después ya puedes subir cambios normalmente:
+
+git add .
+git commit -m "Primer commit"
+git push -u origin main
+
+Si te da error con main, prueba:
+
+git branch
+
