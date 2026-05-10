@@ -1,12 +1,9 @@
-Notas importantes que has de usar: 
-
-Después ya puedes subir cambios normalmente:
+A partir de ahora, tu flujo básico será:
 
 git add .
-git commit -m "Primer commit"
-git push -u origin main
+git commit -m "mensaje"
+git push
 
-Si te da error con main, prueba:
+Y para traer cambios del repositorio:
 
-git branch
-
+git pull
